@@ -6,6 +6,16 @@
 
    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
    <script>
+
+      function setup(){
+        createCanvas(displayWidth, displayHeight);
+        background(0);
+
+
+
+      }
+
+
    </script>
  </head>
  </html>
